@@ -1,0 +1,1 @@
+# nx-cursor-theme
